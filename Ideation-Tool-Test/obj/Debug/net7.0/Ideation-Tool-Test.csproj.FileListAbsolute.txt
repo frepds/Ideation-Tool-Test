@@ -1,0 +1,15 @@
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/bin/Debug/net7.0/Ideation-Tool-Test
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/bin/Debug/net7.0/Ideation-Tool-Test.deps.json
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/bin/Debug/net7.0/Ideation-Tool-Test.runtimeconfig.json
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/bin/Debug/net7.0/Ideation-Tool-Test.dll
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/bin/Debug/net7.0/Ideation-Tool-Test.pdb
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/obj/Debug/net7.0/Ideation-Tool-Test.csproj.AssemblyReference.cache
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/obj/Debug/net7.0/Ideation-Tool-Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/obj/Debug/net7.0/Ideation-Tool-Test.AssemblyInfoInputs.cache
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/obj/Debug/net7.0/Ideation-Tool-Test.AssemblyInfo.cs
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/obj/Debug/net7.0/Ideation-Tool-Test.csproj.CoreCompileInputs.cache
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/obj/Debug/net7.0/Ideation-Tool-Test.dll
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/obj/Debug/net7.0/refint/Ideation-Tool-Test.dll
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/obj/Debug/net7.0/Ideation-Tool-Test.pdb
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/obj/Debug/net7.0/Ideation-Tool-Test.genruntimeconfig.cache
+/Users/frederiksmits/Desktop/Ideation-Tool-Test/Ideation-Tool-Test/obj/Debug/net7.0/ref/Ideation-Tool-Test.dll
